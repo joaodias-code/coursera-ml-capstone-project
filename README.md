@@ -1,4 +1,4 @@
-# TV script generation project
+# Predict paid off or defaulted loans 
 
 Development of a classification model to predict customers who will have their loan paid off or defaulted. The KNN, Decision Tree, SVM and Logistic Regression models will be used.
 
